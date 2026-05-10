@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `video_360p.mp4` |
-| **Total Size** | **2 parts** - **48.33 MB** |
+| **Total Size** | **3 parts** - **96.67 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -18,7 +18,8 @@
 | # | File | Link |
 |---|------|------|
 | 1 | `video_360p.z01` | [Download](https://github.com/ediedi1392-cell/downloader/raw/main/downloads/video_360p/video_360p.z01) |
-| 2 | `video_360p.zip` | [Download](https://github.com/ediedi1392-cell/downloader/raw/main/downloads/video_360p/video_360p.zip) |
+| 2 | `video_360p.z02` | [Download](https://github.com/ediedi1392-cell/downloader/raw/main/downloads/video_360p/video_360p.z02) |
+| 3 | `video_360p.zip` | [Download](https://github.com/ediedi1392-cell/downloader/raw/main/downloads/video_360p/video_360p.zip) |
 
 ---
 
