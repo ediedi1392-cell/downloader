@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `mp4_sd.mp4` |
-| **Total Size** | **2 parts** - **54.16 MB** |
+| **Total Size** | **4 parts** - **171.75 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -18,7 +18,9 @@
 | # | File | Link |
 |---|------|------|
 | 1 | `mp4_sd.z01` | [Download](https://github.com/ediedi1392-cell/downloader/raw/main/downloads/mp4_sd/mp4_sd.z01) |
-| 2 | `mp4_sd.zip` | [Download](https://github.com/ediedi1392-cell/downloader/raw/main/downloads/mp4_sd/mp4_sd.zip) |
+| 2 | `mp4_sd.z02` | [Download](https://github.com/ediedi1392-cell/downloader/raw/main/downloads/mp4_sd/mp4_sd.z02) |
+| 3 | `mp4_sd.z03` | [Download](https://github.com/ediedi1392-cell/downloader/raw/main/downloads/mp4_sd/mp4_sd.z03) |
+| 4 | `mp4_sd.zip` | [Download](https://github.com/ediedi1392-cell/downloader/raw/main/downloads/mp4_sd/mp4_sd.zip) |
 
 ---
 
